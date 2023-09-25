@@ -10,7 +10,7 @@ body {
 }
 
 .main-image{
-    background-image: url("imagenes/forest.jpg");
+    background-image: url("forest.jpg");
     background-position: center bottom;
     background-size: cover;
     background-repeat: no-repeat;
